@@ -1,0 +1,27 @@
+#Language: de
+Funktion: AgileMaps
+As a Anna
+Ich möchte effiziente und agile kommunikation flexibel, schnell und unkompliziert anwenden
+so dass Alex gemeinsame Konzepte für Unternehmen entwickeln kann
+
+Szenario: Zusammenhang zwischen "positivness" und das agile Wort "commitment"
+
+
+Szenario: Zusammenhang zwischen "positivness" und das agile Wort "Trust"
+
+Angenommen, dass "Positivness" zum Bewerten seines Unternehmen gehört
+Wenn ich mit Alex austausche
+Dann finde ich heraus, dass "positivness" stark mit dem Wert "Trust" verbunden ist
+	und ich erstelle eine neue Wertmodelle in Typ "Trust"
+	
+	
+Szenario: Kernzeichnen, dass "Trust" für Alex auch ein Unternehmenswert ist
+
+Angenommen, dass ich bereit eine neue Wertmodelle in Typ "Trust" erstelle habe
+Wenn ich recht clicke,
+Dann kann ich die Categorie-Menu sehen
+und eine Farbe auswählen
+Wenn ich auf eine Farbe drücke
+and die Farbe des Unternehmenswert "Trust" ändert sich
+
+Szenario: 
